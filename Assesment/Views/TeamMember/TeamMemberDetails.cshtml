@@ -1,0 +1,82 @@
+﻿@model Assesment.Models.Entites.TeamMember
+
+@{
+    ViewData["Title"] = "TeamMemberDetails";
+}
+
+<h1>TeamMemberDetails</h1>
+
+<div>
+    <h4>TeamMember</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Role)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Role)
+        </dd>
+    </dl>
+</div>
+<table class="table">
+    <tr>
+        <th>
+            Tittle
+        </th>
+        <th>
+            Description
+        </th>
+        <th>
+            Status
+        </th>
+        <th>
+            Priority
+        </th>
+        <th>
+            DeadLine
+        </th>
+       
+        <th></th>
+    </tr>
+    @foreach(var item in Model.Tasks){
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Priority)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DeadLine)
+            </td>
+        </tr>
+    }
+</table>
+<a asp-action="EditTeamMember" asp-controller="TeamMember" asp-route-id="@Model.TeamMemberID">
+    Update
+    </a>
+<a asp-action="RemoveMember" asp-controller="TeamMember" asp-route-id="@Model.TeamMemberID">
+    Delete
+</a>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.TeamMemberID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

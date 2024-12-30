@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Assesment
+build_property.RootNamespace = Assesment
+build_property.ProjectDir = C:\Users\rahama.mohamed\OneDrive\Desktop\SaifMohammedHussien_W2_0523018\Assesment\Assesment\Assesment\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\rahama.mohamed\OneDrive\Desktop\SaifMohammedHussien_W2_0523018\Assesment\Assesment\Assesment
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/rahama.mohamed/OneDrive/Desktop/SaifMohammedHussien_W2_0523018/Assesment/Assesment/Assesment/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rahama.mohamed/OneDrive/Desktop/SaifMohammedHussien_W2_0523018/Assesment/Assesment/Assesment/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rahama.mohamed/OneDrive/Desktop/SaifMohammedHussien_W2_0523018/Assesment/Assesment/Assesment/Views/Project/AddProject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxBZGRQcm9qZWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rahama.mohamed/OneDrive/Desktop/SaifMohammedHussien_W2_0523018/Assesment/Assesment/Assesment/Views/Project/EditProject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxFZGl0UHJvamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rahama.mohamed/OneDrive/Desktop/SaifMohammedHussien_W2_0523018/Assesment/Assesment/Assesment/Views/Project/GetProjects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxHZXRQcm9qZWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rahama.mohamed/OneDrive/Desktop/SaifMohammedHussien_W2_0523018/Assesment/Assesment/Assesment/Views/Project/ProjectDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxQcm9qZWN0RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rahama.mohamed/OneDrive/Desktop/SaifMohammedHussien_W2_0523018/Assesment/Assesment/Assesment/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rahama.mohamed/OneDrive/Desktop/SaifMohammedHussien_W2_0523018/Assesment/Assesment/Assesment/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rahama.mohamed/OneDrive/Desktop/SaifMohammedHussien_W2_0523018/Assesment/Assesment/Assesment/Views/Tasks/EditTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcRWRpdFRhc2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rahama.mohamed/OneDrive/Desktop/SaifMohammedHussien_W2_0523018/Assesment/Assesment/Assesment/Views/TeamMember/EditTeamMember.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbU1lbWJlclxFZGl0VGVhbU1lbWJlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rahama.mohamed/OneDrive/Desktop/SaifMohammedHussien_W2_0523018/Assesment/Assesment/Assesment/Views/TeamMember/TeamMemberDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbU1lbWJlclxUZWFtTWVtYmVyRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rahama.mohamed/OneDrive/Desktop/SaifMohammedHussien_W2_0523018/Assesment/Assesment/Assesment/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rahama.mohamed/OneDrive/Desktop/SaifMohammedHussien_W2_0523018/Assesment/Assesment/Assesment/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rahama.mohamed/OneDrive/Desktop/SaifMohammedHussien_W2_0523018/Assesment/Assesment/Assesment/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-odoxti4x0b

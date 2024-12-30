@@ -1,0 +1,95 @@
+﻿@model Assesment.Models.Entites.Project
+
+
+@{
+    ViewData["Title"] = "ProjectDetails";
+}
+
+<h1>ProjectDetails</h1>
+
+<div>
+    <h4>Project</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.StartDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.StartDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.EndDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.EndDate)
+        </dd>
+    </dl>
+</div>
+<table class="table">
+    <tr>
+        <th>
+            Tittle
+        </th>
+        <th>
+           Description
+        </th>
+        <th>
+            Status
+        </th>
+        <th>
+            Priority
+        </th>
+        <th>
+            DeadLine
+        </th>
+        <th>
+            TeamMember
+        </th>
+        <th></th>
+    </tr>
+    @foreach(var item in Model.Tasks){
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Priority)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DeadLine)
+            </td>
+            <td>
+                <a asp-controller="TeamMember" asp-action="TeamMemberDetails" asp-route-id ="@item.TeamMemberID" >
+                @Html.DisplayFor(modelItem => item.TeamMember.Name)
+                </a>
+            </td>
+            <td>
+                <a asp-controller="Tasks" asp-action="EditTask" asp-route-id="@item.TasksID" class="btn btn-outline-dark">Edit</a> |
+            </td>
+        </tr>
+    }
+
+</table>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.ProjectID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
