@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|c:\\users\\rahama.mohamed\\onedrive\\desktop\\saifmohammedhussien_w2_0523018\\assesment\\assesment\\assesment\\views\\teammember\\editteammember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\teammember\\editteammember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|c:\\users\\rahama.mohamed\\onedrive\\desktop\\saifmohammedhussien_w2_0523018\\assesment\\assesment\\assesment\\views\\teammember\\teammemberdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\teammember\\teammemberdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|c:\\users\\rahama.mohamed\\onedrive\\desktop\\saifmohammedhussien_w2_0523018\\assesment\\assesment\\assesment\\views\\project\\addproject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\project\\addproject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|c:\\users\\rahama.mohamed\\onedrive\\desktop\\saifmohammedhussien_w2_0523018\\assesment\\assesment\\assesment\\controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|solutionrelative:assesment\\controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|c:\\users\\rahama.mohamed\\onedrive\\desktop\\saifmohammedhussien_w2_0523018\\assesment\\assesment\\assesment\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|solutionrelative:assesment\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|c:\\users\\rahama.mohamed\\onedrive\\desktop\\saifmohammedhussien_w2_0523018\\assesment\\assesment\\assesment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|solutionrelative:assesment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|c:\\users\\rahama.mohamed\\onedrive\\desktop\\saifmohammedhussien_w2_0523018\\assesment\\assesment\\assesment\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|solutionrelative:assesment\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|c:\\users\\rahama.mohamed\\onedrive\\desktop\\saifmohammedhussien_w2_0523018\\assesment\\assesment\\assesment\\models\\viewmodels\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|solutionrelative:assesment\\models\\viewmodels\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|c:\\users\\rahama.mohamed\\onedrive\\desktop\\saifmohammedhussien_w2_0523018\\assesment\\assesment\\assesment\\models\\entites\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|solutionrelative:assesment\\models\\entites\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|c:\\users\\rahama.mohamed\\onedrive\\desktop\\saifmohammedhussien_w2_0523018\\assesment\\assesment\\assesment\\models\\entites\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|solutionrelative:assesment\\models\\entites\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|c:\\users\\rahama.mohamed\\onedrive\\desktop\\saifmohammedhussien_w2_0523018\\assesment\\assesment\\assesment\\models\\entites\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|solutionrelative:assesment\\models\\entites\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskManagement/True/SqlTable/dbo.tasks.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskManagement/True/SqlTable/dbo.teamMembers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskManagement/True/SqlTable/dbo.projects.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|c:\\users\\rahama.mohamed\\onedrive\\desktop\\saifmohammedhussien_w2_0523018\\assesment\\assesment\\assesment\\views\\project\\getprojects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\project\\getprojects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|c:\\users\\rahama.mohamed\\onedrive\\desktop\\saifmohammedhussien_w2_0523018\\assesment\\assesment\\assesment\\views\\project\\editproject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\project\\editproject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|c:\\users\\rahama.mohamed\\onedrive\\desktop\\saifmohammedhussien_w2_0523018\\assesment\\assesment\\assesment\\views\\project\\projectdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\project\\projectdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|c:\\users\\rahama.mohamed\\onedrive\\desktop\\saifmohammedhussien_w2_0523018\\assesment\\assesment\\assesment\\views\\tasks\\edittask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\tasks\\edittask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Migrations\\20241230094837_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assesment\\Migrations\\20241230094837_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|c:\\users\\rahama.mohamed\\onedrive\\desktop\\saifmohammedhussien_w2_0523018\\assesment\\assesment\\assesment\\assesment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|solutionrelative:assesment\\assesment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|c:\\users\\rahama.mohamed\\onedrive\\desktop\\saifmohammedhussien_w2_0523018\\assesment\\assesment\\assesment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|solutionrelative:assesment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Controllers\\TaskController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assesment\\Controllers\\TaskController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|c:\\users\\rahama.mohamed\\onedrive\\desktop\\saifmohammedhussien_w2_0523018\\assesment\\assesment\\assesment\\migrations\\20241230103022_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5213FEA1-A5D7-440E-B0D8-3C3F4324B7F5}|Assesment\\Assesment.csproj|solutionrelative:assesment\\migrations\\20241230103022_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddProject.cshtml",
+              "DocumentMoniker": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Views\\Project\\AddProject.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\Project\\AddProject.cshtml",
+              "ToolTip": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Views\\Project\\AddProject.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\Project\\AddProject.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:44:28.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeamMemberDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Views\\TeamMember\\TeamMemberDetails.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\TeamMember\\TeamMemberDetails.cshtml",
+              "ToolTip": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Views\\TeamMember\\TeamMemberDetails.cshtml*",
+              "RelativeToolTip": "Assesment\\Views\\TeamMember\\TeamMemberDetails.cshtml*",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:50:57.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditTeamMember.cshtml",
+              "DocumentMoniker": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Views\\TeamMember\\EditTeamMember.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\TeamMember\\EditTeamMember.cshtml",
+              "ToolTip": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Views\\TeamMember\\EditTeamMember.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\TeamMember\\EditTeamMember.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:09:28.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeamMemberController.cs",
+              "DocumentMoniker": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Controllers\\TeamMemberController.cs",
+              "RelativeDocumentMoniker": "Assesment\\Controllers\\TeamMemberController.cs",
+              "ToolTip": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Controllers\\TeamMemberController.cs",
+              "RelativeToolTip": "Assesment\\Controllers\\TeamMemberController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowCkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:24:52.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Assesment\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Assesment\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwv0oAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:09:54.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Assesment\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Assesment\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:23:26.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Models\\ViewModels\\TaskViewModel.cs",
+              "RelativeDocumentMoniker": "Assesment\\Models\\ViewModels\\TaskViewModel.cs",
+              "ToolTip": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Models\\ViewModels\\TaskViewModel.cs",
+              "RelativeToolTip": "Assesment\\Models\\ViewModels\\TaskViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:22:31.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Models\\Entites\\Project.cs",
+              "RelativeDocumentMoniker": "Assesment\\Models\\Entites\\Project.cs",
+              "ToolTip": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Models\\Entites\\Project.cs",
+              "RelativeToolTip": "Assesment\\Models\\Entites\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:50:27.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Models\\Entites\\Tasks.cs",
+              "RelativeDocumentMoniker": "Assesment\\Models\\Entites\\Tasks.cs",
+              "ToolTip": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Models\\Entites\\Tasks.cs",
+              "RelativeToolTip": "Assesment\\Models\\Entites\\Tasks.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:50:18.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Models\\Entites\\TeamMember.cs",
+              "RelativeDocumentMoniker": "Assesment\\Models\\Entites\\TeamMember.cs",
+              "ToolTip": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Models\\Entites\\TeamMember.cs",
+              "RelativeToolTip": "Assesment\\Models\\Entites\\TeamMember.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:21:40.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.tasks [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskManagement/True/SqlTable/dbo.tasks.sql",
+              "ToolTip": "dbo.tasks [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-30T11:18:34.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Assesment\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Assesment\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:48:12.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.teamMembers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskManagement/True/SqlTable/dbo.teamMembers.sql",
+              "ToolTip": "dbo.teamMembers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-30T11:17:35.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.projects [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskManagement/True/SqlTable/dbo.projects.sql",
+              "ToolTip": "dbo.projects [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-30T11:18:18.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241230103022_First.cs",
+              "DocumentMoniker": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Migrations\\20241230103022_First.cs",
+              "RelativeDocumentMoniker": "Assesment\\Migrations\\20241230103022_First.cs",
+              "ToolTip": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Migrations\\20241230103022_First.cs",
+              "RelativeToolTip": "Assesment\\Migrations\\20241230103022_First.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:30:22.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetProjects.cshtml",
+              "DocumentMoniker": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Views\\Project\\GetProjects.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\Project\\GetProjects.cshtml",
+              "ToolTip": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Views\\Project\\GetProjects.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\Project\\GetProjects.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:21:28.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditProject.cshtml",
+              "DocumentMoniker": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Views\\Project\\EditProject.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\Project\\EditProject.cshtml",
+              "ToolTip": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Views\\Project\\EditProject.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\Project\\EditProject.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:21:02.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProjectDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Views\\Project\\ProjectDetails.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\Project\\ProjectDetails.cshtml",
+              "ToolTip": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Views\\Project\\ProjectDetails.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\Project\\ProjectDetails.cshtml",
+              "ViewState": "AgIAAEcAAAAAAAAAAAASwFcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:11:07.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditTask.cshtml",
+              "DocumentMoniker": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Views\\Tasks\\EditTask.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\Tasks\\EditTask.cshtml",
+              "ToolTip": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Views\\Tasks\\EditTask.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\Tasks\\EditTask.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:11:03.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241230094837_First.cs",
+              "DocumentMoniker": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Migrations\\20241230094837_First.cs",
+              "RelativeDocumentMoniker": "Assesment\\Migrations\\20241230094837_First.cs",
+              "ToolTip": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Migrations\\20241230094837_First.cs",
+              "RelativeToolTip": "Assesment\\Migrations\\20241230094837_First.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:48:37.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Assesment.csproj",
+              "DocumentMoniker": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Assesment.csproj",
+              "RelativeDocumentMoniker": "Assesment\\Assesment.csproj",
+              "ToolTip": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Assesment.csproj",
+              "RelativeToolTip": "Assesment\\Assesment.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T08:56:46.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\appsettings.json",
+              "RelativeDocumentMoniker": "Assesment\\appsettings.json",
+              "ToolTip": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\appsettings.json",
+              "RelativeToolTip": "Assesment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T06:30:28.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Assesment\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\rahama.mohamed\\OneDrive\\Desktop\\SaifMohammedHussien_W2_0523018\\Assesment\\Assesment\\Assesment\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Assesment\\Controllers\\TaskController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:35:04.318Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
